@@ -29,7 +29,7 @@ Esta es una aplicación de notas simple pero poderosa creada con **Electron** y 
 ```bash
 # Clona el repositorio
 git clone https://github.com/JhefersonCh/notes-electron.git
-cd electron-notes-app
+cd notes-electron
 
 # Instala las dependencias
 npm install
